@@ -1,8 +1,9 @@
 ## Hi. It's GAGHL
 # 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GAGHL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GAGHL&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAGHL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GAGHL&theme=dark&hide_border=false)
+
 ## Skills
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
