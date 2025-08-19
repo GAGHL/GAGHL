@@ -5,6 +5,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAGHL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
+## 🛠 Technical Skills
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![AVR](https://img.shields.io/badge/-AVR-FF9900?style=flat&logo=Microchip&logoColor=white)
+![ESP](https://img.shields.io/badge/-ESP8266%2FESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Atmel Studio](https://img.shields.io/badge/-Microchip%20Studio-990000?style=flat&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat&logo=PlatformIO&logoColor=white)
+
 ## Skills
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
