@@ -7,7 +7,9 @@
 
 
 ## 🛠 Technical Skills
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![AVR](https://img.shields.io/badge/-AVR-FF9900?style=flat&logo=Microchip&logoColor=white)
 ![ESP](https://img.shields.io/badge/-ESP8266%2FESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Atmel Studio](https://img.shields.io/badge/-Microchip%20Studio-990000?style=flat&logoColor=white)
