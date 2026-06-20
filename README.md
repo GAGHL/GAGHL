@@ -1,4 +1,5 @@
-# Hi. It's GAGHL
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:FF0080&height=220&section=header&text=Hi.%20It's%20GAGHL!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 # 📊 My Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=GAGHL&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
